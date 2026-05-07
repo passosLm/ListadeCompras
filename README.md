@@ -4,7 +4,7 @@ Aplicativo móvel de gerenciamento de lista de compras desenvolvido com React Na
 
 ## 👨‍💻 Desenvolvedor
 
-- **Nome:** Seu Nome Aqui
+- **Nome:** Joao Marcelo Passos
 - **Período:** 3º Período
 - **Disciplina:** Desenvolvimento para Dispositivos Móveis
 - **Professor:** Igor Revoredo
