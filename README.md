@@ -2,6 +2,12 @@
 
 Aplicativo móvel de gerenciamento de lista de compras desenvolvido com React Native e Expo.
 
+## 🎨 Layout de Referência
+
+O design do aplicativo foi baseado no layout da comunidade do Figma:
+**Groceries List Mobile App**
+https://www.figma.com/community/file/1281605683993568774/groceries-list-mobile-app
+
 ## 👨‍💻 Desenvolvedor
 
 - **Nome:** Joao Marcelo Passos
